@@ -2,12 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server1",
+      "title": "json-server800",
       "author": "typicode1"
     },
     {
       "id": 2,
-      "title": "json-server2",
+      "title": "json-server8",
       "author": "typicode2"
     },
     {
@@ -19,6 +19,16 @@
       "id": 4,
       "title": "json-server4",
       "author": "typicode4"
+    },
+    {
+      "id": 1626056979965,
+      "title": "baru",
+      "author": "title"
+    },
+    {
+      "id": 1626061069643,
+      "title": "baru2",
+      "author": "edi"
     }
   ],
   "comments": [],
